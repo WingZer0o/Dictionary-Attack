@@ -1,0 +1,4 @@
+SomeBadPassword
+1234Password
+1267Seven
+MyBadPassword1234
